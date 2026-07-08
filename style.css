@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+#container {
+            border: 1px solid black;
+            padding: 10px 20px;
+            text-align: center;
+            border-radius: 8px;
+            width: 350px;
+        }
+        input {
+            padding: 10px 20px;
+            border-radius: 8px;
+        }
+        #searchBtn {
+            margin-top: 10px;
+            padding: 10px 20px;
+            border-radius: 8px;
+        }
+        #searchBtn:hover {
+            color: white;
+            background-color: blue;
+            
+        }
+        #result {
+            
+            margin-top: 10px;
+        }
