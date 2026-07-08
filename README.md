@@ -51,7 +51,9 @@ with your own API key.
 
 ## 📸 Screenshot
 
-Add a screenshot of the application here.
+<img width="546" height="669" alt="image" src="https://github.com/user-attachments/assets/cf322a7a-77ee-4d0b-8cac-c02cac36867e" />
+
+
 
 ## 🎯 Future Improvements
 
